@@ -28,7 +28,7 @@ for diff, color in zip(difficulties, colors):
                 marker = 'o', 
                 lw = 2,
             )
-    plt.text(1800, 20, 'www.motloch.net', rotation = 270, fontsize = 10, alpha = 0.1)
+    plt.text(1800, 20, 'www.motloch.net', rotation = 270, fontsize = 10, alpha = 0.8)
 
 # Style the plot
 plt.yscale('log')
