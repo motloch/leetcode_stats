@@ -1,6 +1,6 @@
 # leetcode stats
 
-Codes that scrape Leetcode website and shows how many problems you need to solve to be top 10%/1%/0.1% ...
+Codes that scrape Leetcode website and show how many problems you need to solve to be top 10%/1%/0.1% ...
 
 <img src="leetcode.jpg" width="300">
 
